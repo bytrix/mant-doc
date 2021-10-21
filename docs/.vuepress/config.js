@@ -1,7 +1,7 @@
 module.exports = {
     title: "Mant Design",
     themeConfig: {
-        sidebarDepth: 3,
+        // sidebarDepth: 3,
         sidebar: {
             '/': [
                 {
@@ -11,6 +11,7 @@ module.exports = {
                 {
                     title: '组件',
                     path: '/components/',
+                    collapse: true,
                     children: [
                         {
                             title: 'Button',
@@ -70,7 +71,17 @@ module.exports = {
                         },
                         {
                             title: 'Tree',
-                            path: '/components/Tree.md'
+                            path: '/components/Tree/',
+                            children: [
+                                {
+                                    title: '菜单项右侧展示',
+                                    path: '/components/Tree/right.md'
+                                },
+                                {
+                                    title: '可拖拽菜单项',
+                                    path: '/components/Tree/draggable.md'
+                                }
+                            ]
                         },
                     ]
                 }
