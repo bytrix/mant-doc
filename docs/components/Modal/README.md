@@ -33,4 +33,5 @@
 |-|-|-|-|
 |title|标题|String|""|
 |visible|显示\隐藏|Boolean|false|
+|maskClosable|点击蒙层是否允许关闭|Boolean|true|
 |@close|关闭事件|Function||

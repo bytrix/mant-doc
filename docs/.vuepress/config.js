@@ -26,8 +26,8 @@ module.exports = {
                             path: '/components/Checkbox/'
                         },
                         {
-                            title: 'Col 列',
-                            path: '/components/Col.md'
+                            title: 'Grid 栅格',
+                            path: '/components/Grid/',
                         },
                         {
                             title: 'Dropdown 下拉菜单',
@@ -50,15 +50,11 @@ module.exports = {
                             path: '/components/Modal/'
                         },
                         {
-                            title: 'Row 行',
-                            path: '/components/Row.md'
-                        },
-                        {
-                            title: 'Spin',
+                            title: 'Spin 加载中',
                             path: '/components/Spin.md'
                         },
                         {
-                            title: 'Tabs',
+                            title: 'Tabs 标签页',
                             path: '/components/Tabs.md'
                         },
                         {
