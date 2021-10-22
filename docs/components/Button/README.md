@@ -14,3 +14,11 @@
 </template>
 ```
 :::
+
+|参数|说明|类型|默认值|
+|-|-|-|-|
+|type|设置按钮类型|primary \| link \| default|default|
+|icon|设置按钮的图标组件|['fal', 'plus']|[]|
+|circle|设置按钮为圆形|Boolean|false|
+|plain|设置为纯按钮样式|Boolean|false|
+|size|设置按钮大小|large \| small|""|

@@ -9,3 +9,8 @@
     </div>
 </template>
 ```
+:::
+
+|参数|说明|类型|默认值|
+|-|-|-|-|
+|type|类型|primary|default|

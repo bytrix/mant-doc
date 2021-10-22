@@ -14,43 +14,43 @@ module.exports = {
                     collapse: true,
                     children: [
                         {
-                            title: 'Button',
+                            title: 'Button 按钮',
                             path: '/components/Button/'
                         },
                         {
-                            title: 'Card',
+                            title: 'Card 卡片',
                             path: '/components/Card/'
                         },
                         {
-                            title: 'Checkbox',
+                            title: 'Checkbox 复选框',
                             path: '/components/Checkbox/'
                         },
                         {
-                            title: 'Col',
+                            title: 'Col 列',
                             path: '/components/Col.md'
                         },
                         {
-                            title: 'Dropdown',
+                            title: 'Dropdown 下拉菜单',
                             path: '/components/Dropdown.md'
                         },
                         {
-                            title: 'EditableModal',
+                            title: 'EditableModal 可编辑模态框',
                             path: '/components/EditableModal.md'
                         },
                         {
-                            title: 'Icon',
+                            title: 'Icon 图标',
                             path: '/components/Icon.md'
                         },
                         {
-                            title: 'Input',
+                            title: 'Input 输入框',
                             path: '/components/Input.md'
                         },
                         {
-                            title: 'Modal',
+                            title: 'Modal 模态框',
                             path: '/components/Modal/'
                         },
                         {
-                            title: 'Row',
+                            title: 'Row 行',
                             path: '/components/Row.md'
                         },
                         {
@@ -62,15 +62,15 @@ module.exports = {
                             path: '/components/Tabs.md'
                         },
                         {
-                            title: 'Tag',
+                            title: 'Tag 标签',
                             path: '/components/Tag.md'
                         },
                         {
-                            title: 'Text',
+                            title: 'Text 文本',
                             path: '/components/Text.md'
                         },
                         {
-                            title: 'Tree',
+                            title: 'Tree 树形菜单',
                             path: '/components/Tree/',
                             children: [
                                 {
