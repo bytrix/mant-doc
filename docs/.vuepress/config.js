@@ -2,6 +2,13 @@ module.exports = {
     title: "Mant Design",
     themeConfig: {
         // sidebarDepth: 3,
+        displayAllHeaders: true,
+        nav: [
+            {
+                text: "GitHub",
+                link: "https://github.com/bytrix/mant-design"
+            }
+        ],
         sidebar: {
             '/': [
                 {
@@ -11,7 +18,7 @@ module.exports = {
                 {
                     title: '组件',
                     path: '/components/',
-                    collapse: true,
+                    collapsable: false,
                     children: [
                         {
                             title: 'Button 按钮',
@@ -68,6 +75,7 @@ module.exports = {
                         {
                             title: 'Tree 树形菜单',
                             path: '/components/Tree/',
+                            collapsable: false,
                             children: [
                                 {
                                     title: '菜单项右侧展示',

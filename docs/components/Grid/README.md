@@ -44,4 +44,4 @@
 
 |参数|说明|类型|默认值|
 |-|-|-|-|
-|gutter|间距|Array|[0, 0]|
+|gutter|间距|Array|undefined|
