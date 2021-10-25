@@ -13,7 +13,7 @@ module.exports = {
             '/': [
                 {
                     title: '基本使用',
-                    path: '/intro/'
+                    path: '/'
                 },
                 {
                     title: '组件',

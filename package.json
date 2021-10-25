@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mant-design": "^0.1.23",
+    "mant-design": "^0.1.29",
     "vuepress-plugin-demo-container": "^0.2.0"
   },
   "name": "mant-doc",
