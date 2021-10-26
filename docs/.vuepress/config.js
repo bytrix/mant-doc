@@ -1,5 +1,6 @@
 module.exports = {
     title: "Mant Design",
+    base: "/mant-doc/",
     themeConfig: {
         // sidebarDepth: 3,
         displayAllHeaders: true,
@@ -71,6 +72,10 @@ module.exports = {
                         {
                             title: 'Text 文本',
                             path: '/components/Text.md'
+                        },
+                        {
+                            title: 'Tooltip 文字提示',
+                            path: '/components/Tooltip.md'
                         },
                         {
                             title: 'Tree 树形菜单',
